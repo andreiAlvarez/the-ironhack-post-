@@ -1,5 +1,5 @@
 # 📰 The Ironhack Post
-[Live Demo](https://dashboard.heroku.com/apps/the-ironhack-post)
+[Live Demo](https://the-ironhack-post.herokuapp.com/)
 
 ![newspaper](https://github.com/andreiAlvarez/the-ironhack-post-/blob/master/src/images/newspaperOne.png?raw=true)
 
