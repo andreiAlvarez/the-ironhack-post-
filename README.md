@@ -1,6 +1,7 @@
 # 📰 The Ironhack Post
 [Live Demo](https://dashboard.heroku.com/apps/the-ironhack-post)
-![Calculator](https://github.com/andreiAlvarez/the-ironhack-post-/blob/master/src/images/newspaperOne.png?raw=true)
+
+![newspaper](https://github.com/andreiAlvarez/the-ironhack-post-/blob/master/src/images/newspaperOne.png?raw=true)
 
 ## 🚀 Features: 
 
