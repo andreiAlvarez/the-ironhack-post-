@@ -211,6 +211,12 @@ time {
 
 /****** Details *******/
 
+.details {
+  margin-left: 20vw;
+  margin-right: 20vw;
+  width: 60vw;
+}
+
 .details__title {
   margin: 1vh 1vh;
 }
